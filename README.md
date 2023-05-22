@@ -3,6 +3,11 @@
 RRT Path Planning Algorithm
 This project implements the Rapidly-Exploring Random Tree (RRT) algorithm for path planning. The RRT algorithm is widely used in robotics and motion planning to find feasible paths for a robot to navigate from a start position to a goal position in a given map with obstacles.
 
+## Demo
+
+![Simulation](https://github.com/ahmaddioxide/RRT_Simulation/assets/75989502/cae77ea9-e275-4253-a63d-1af72571f671)
+
+
 ## Features
 Implements the RRT algorithm for path planning.
 Provides a graphical map representation using Pygame.
